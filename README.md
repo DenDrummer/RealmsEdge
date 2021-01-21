@@ -25,7 +25,7 @@ repository specifically for the private modded Minecraft server: Realm's Edge
 # 1: Getting the modpack running
 
 ## 1.1: Forge
-First off you need to install Forge version ???? for Minecraft version 1.16.4
+First off you need to install Forge version 35.1.37 for Minecraft version 1.16.4
 There's plenty of existing guides for this.
 All mods go into the mods folder in your `.minecraft` root folder.
 
