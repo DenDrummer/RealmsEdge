@@ -20,6 +20,14 @@ https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3156477
 https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator/files/3133643
 
 
+# Better Portal Opening
+### Made by
+- agnor99
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/betterportalopening/files/3104810
+
+
 # Biomes O' Plenty
 ### Made by
 - Forstride
@@ -27,15 +35,41 @@ https://www.curseforge.com/minecraft/mc-mods/better-bedrock-generator/files/3133
 - GlitchfiendMods
 
 ### Version
+https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3166887
 
 
 # Comforts
+### Made by
+- TheIllusiveC4
+- CFGrafanaStats
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/comforts/files/3156807
+
+
+# Corpse
+### Made by
+- henkelmax
+- Forge_User_61849439
+- Forge_User_38077232
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/corpse/files/3158296
 
 
 # Curios API
 
 
 # ObserverLib
+
+
+# Oh The Biomes You'll Go
+### made by
+- AOCAWOL
+- Corgi_taco
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/files/3159758
 
 
 # YUNG's Better Caves
