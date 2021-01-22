@@ -57,10 +57,29 @@ https://www.curseforge.com/minecraft/mc-mods/comforts/files/3156807
 https://www.curseforge.com/minecraft/mc-mods/corpse/files/3158296
 
 
+# Create
+### Made by
+- simibubi
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/create/files/3167531
+
+
 # Curios API
+### Made by
+- TheIllusiveC4
+- CFGrafanaStats
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/curios/files/3168960
 
 
 # ObserverLib
+### Made by
+- HellFirePVP
+
+### Version
+https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3162044
 
 
 # Oh The Biomes You'll Go
