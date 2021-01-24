@@ -4,7 +4,9 @@ repository specifically for the private modded Minecraft server: Realm's Edge
 # 0: Contents
 1: Getting the mopack running
 
-    1.1: Forge
+    1.1A: Forge
+    
+    1.1B: Vivecraft
 
     1.2: Required mods
 
@@ -24,10 +26,18 @@ repository specifically for the private modded Minecraft server: Realm's Edge
 
 # 1: Getting the modpack running
 
-## 1.1: Forge
+## 1.1A: Forge
 First off you need to install Forge version 35.1.37 for Minecraft version 1.16.4
-There's plenty of existing guides for this.
-All mods go into the mods folder in your `.minecraft` root folder.
+Forge downloads can be found here: http://files.minecraftforge.net/
+There's plenty of existing guides for installing Forge ModLoader (FML).
+While newer version of Forge might still work, it's not always guaranteed. Using this version of Forge and the versions of mods listed in this repository should guarantee compatibility.
+By default, all mods go into the mods folder in your `.minecraft` root folder.
+
+## 1.1B: Vivecraft
+If you own a VR headset or want to see the movement of others that are playing in VR, you'll want to use Vivecraft.
+It will also come with Optifine already installed.
+The general installation instructions can be found on the download page here: http://www.vivecraft.org/downloads/
+
 
 ## 1.2: Required mods
 These mods are required to be able to join the server.
@@ -36,7 +46,7 @@ Why I'm not simple reuploading is answered in the FAQ section below (3.1)
 
 Always make sure to download the correct version.
 For example on CurseForge you'll see 2 download buttons.
-The one at the top will be the latest version, while the other one, which'll also have an actual download icon, will be for the version you're looking at, but the latest version isn't always the version used on the server.
+The one at the top will be the latest version, while the other one, which'll also have an actual download icon, will be for the version you're looking at, but the latest version isn't always the version used on the server. Newer versions might still be compatible, but can't always be guaranteed
 tldr: always use the download button with the icon on CurseForge.
 
 Requirements for these mods will be listed with them, as well which mods require them. This is so if you want to play alone with a modified modlist or make your own server, you'll have the required information easily at hand.
@@ -53,7 +63,7 @@ A clear example would be Enhanced Visuals, as it has some features that greatly 
 
 ## 1.5: Serverside
 This will include not only the mods, but also datapacks that are being used on the server.
-There will be a great overlap with Required mods (1.2), and some minor overlap with Recommended mods (1.3), but some mods will only be used on the server, such as Discord Integration and DynmapForge.
+There will be a great overlap with Required mods (1.2), and some minor overlap with Recommended mods (1.3), but some mods will only be used on the server, such as Discord Integration, DynmapForge and Vivecraft Forge Extensions.
 Some of the serverside-onlly mods will still work in singleplayer, but some mods like Discord Integration is only meant to work on actual servers.
 
 # 2: Joining the server
