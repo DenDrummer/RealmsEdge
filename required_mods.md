@@ -1,3 +1,12 @@
+# Aquaculture
+### Made by
+- Shadowclaimer
+- Girafi
+- CFGrafanaStats
+### Version
+https://www.curseforge.com/minecraft/mc-mods/aquaculture/files/3163707
+
+
 # Astral Sorcery
 ### Made by
 - HellFirePVP
@@ -31,6 +40,13 @@ https://www.curseforge.com/minecraft/mc-mods/betterportalopening/files/3104810
 - GlitchfiendMods
 ### Version
 https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty/files/3166887
+
+
+# Cannot Build over Lava Source blocks
+### Made by
+- Lothrazar
+### Version
+https://www.curseforge.com/minecraft/mc-mods/cannot-build-over-lava-source-blocks/files/3071324
 
 
 # Clumps
@@ -92,6 +108,7 @@ https://www.curseforge.com/minecraft/mc-mods/cyclops-core/files/3176295
 ### Version
 https://www.curseforge.com/minecraft/mc-mods/everlastingabilities/files/3151340
 
+
 # ObserverLib
 ### Made by
 - HellFirePVP
@@ -107,7 +124,50 @@ https://www.curseforge.com/minecraft/mc-mods/observerlib/files/3162044
 https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/files/3159758
 
 
-# YUNG's API
+# Pam's HarvestCraft 2 - Food Core
+### Made by
+- pamharvestcraft
+### Version
+https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core/files/3177876
+
+
+# Project MMO
+### Made by
+- Harmonised_
+- bh_demo
+### Version
+https://www.curseforge.com/minecraft/mc-mods/project-mmo/files/3177163
+
+
+# Repurposed Structures (Forge)
+### Made by
+- telepathicgrunt
+- cannon_foddr
+- andrew0030
+- miguelforge
+### Version
+https://www.curseforge.com/minecraft/mc-mods/repurposed-structures/files/3169638
+
+
+# Serene Seasons
+### Made by
+- TheAdubbz
+- Forstride
+- GlitchfiendMods
+### Version
+https://www.curseforge.com/minecraft/mc-mods/serene-seasons/files/3154197
+
+
+# Spice of Life: Carrot Edition
+### Made by
+- lordcazsius
+- FenricsShield
+- juliand665
+### Version
+https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition/files/3174886
+
+
+# YUNG's API (Forge)
 ### Made by
 - YUNGNICKYOUNG
 ### Required by
