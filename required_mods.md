@@ -19,6 +19,15 @@ https://www.curseforge.com/minecraft/mc-mods/aquaculture/files/3163707
 https://www.curseforge.com/minecraft/mc-mods/astral-sorcery/files/3156477
 
 
+# AutoRegLib
+### Made by
+- Vazkii
+### Required by
+- Quark
+### Version
+https://www.curseforge.com/minecraft/mc-mods/autoreglib/files/3128555
+
+
 # Better Bedrock Generator
 ### Made by
 - JayJay1989BE
@@ -131,12 +140,31 @@ https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go/files/315975
 https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core/files/3177876
 
 
+# Polymorph
+### Made by
+- TheIllusiveC4
+- CFGrafanaStats
+### Version
+https://www.curseforge.com/minecraft/mc-mods/polymorph/files/3172074
+
+
 # Project MMO
 ### Made by
 - Harmonised_
 - bh_demo
 ### Version
 https://www.curseforge.com/minecraft/mc-mods/project-mmo/files/3177163
+
+
+# Quark
+### Made by
+- Vazkii
+- mcvinnyq
+- wiresegal
+### Requires
+- AutoRegLib
+### Version
+https://www.curseforge.com/minecraft/mc-mods/quark/files/3177615
 
 
 # Repurposed Structures (Forge)
